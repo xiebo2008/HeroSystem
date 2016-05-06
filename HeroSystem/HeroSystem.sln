@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Con_Score", "..\..\..\..\Documents\Tencent Files\44498862\FileRecv\Con_Score\Con_Score\Con_Score.csproj", "{A47713A8-88B2-4BD6-95F0-DA691D7CC170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroCloud", "..\..\..\..\Documents\Tencent Files\44498862\FileRecv\Con_Score\HeroCloud\HeroCloud.csproj", "{A226681D-1789-49E6-9967-3033F2BC2D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroModel", "..\..\..\..\Documents\Tencent Files\44498862\FileRecv\Con_Score\HeroModel\HeroModel.csproj", "{54DD4539-439C-440D-B1BA-12C55F7932BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHero", "..\..\..\..\Documents\Tencent Files\44498862\FileRecv\Con_Score\IHero\IHero.csproj", "{9DF35CB0-5DBD-49C2-81A0-A508C3080CED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47713A8-88B2-4BD6-95F0-DA691D7CC170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47713A8-88B2-4BD6-95F0-DA691D7CC170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47713A8-88B2-4BD6-95F0-DA691D7CC170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47713A8-88B2-4BD6-95F0-DA691D7CC170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A226681D-1789-49E6-9967-3033F2BC2D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A226681D-1789-49E6-9967-3033F2BC2D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A226681D-1789-49E6-9967-3033F2BC2D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A226681D-1789-49E6-9967-3033F2BC2D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DD4539-439C-440D-B1BA-12C55F7932BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DD4539-439C-440D-B1BA-12C55F7932BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DD4539-439C-440D-B1BA-12C55F7932BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DD4539-439C-440D-B1BA-12C55F7932BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF35CB0-5DBD-49C2-81A0-A508C3080CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF35CB0-5DBD-49C2-81A0-A508C3080CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF35CB0-5DBD-49C2-81A0-A508C3080CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF35CB0-5DBD-49C2-81A0-A508C3080CED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
